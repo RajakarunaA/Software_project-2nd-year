@@ -8,12 +8,7 @@ This is a **Project Management Tool** developed as part of a 2nd-year Software P
 - [Overview](#overview)
 - [Features](#features)
 - [Technology Stack](#technology-stack)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [API Endpoints](#api-endpoints)
-- [Frontend Routes](#frontend-routes)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
